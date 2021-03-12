@@ -1,0 +1,13 @@
+git ¸í·É¾î
+
+git
+
+git version
+
+git clone https://github.com/Co-Why/Algorithm.git
+
+git add [filename]
+
+git commit -m "comment"
+
+git push
